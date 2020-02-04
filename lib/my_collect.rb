@@ -6,5 +6,5 @@ new_array = []
       #new_array.push(yield array[i])
       i += 1
   end
-  
+  new_array
 end
